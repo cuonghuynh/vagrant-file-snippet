@@ -1,3 +1,12 @@
-## Installation
+# Vagrant File Config
 
-This is a vagrant file used scotchbox, run Vagrant up to use.
+> Setup a vagrant in fast
+
+## Requirements
+
+- VirtualBox or VMWare
+- Vagrant
+
+## Usage
+
+This is a vagrant file used scotchbox, run ```shell Vagrant up``` to use.
