@@ -9,4 +9,4 @@
 
 ## Usage
 
-This is a vagrant file used scotchbox, run ```shell Vagrant up``` to use.
+This is a vagrant file used scotchbox, run ```Vagrant up``` to use.
